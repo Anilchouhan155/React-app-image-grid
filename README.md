@@ -1,3 +1,6 @@
+
+## `React-app-image-grid`
+
 Display at least 3 links that return a list of photos matching some criteria. For example: Dogs, Cats and Coffee (see demo video).
 
 Include a "Search" link that includes a search field to let users search for photos.
